@@ -1,9 +1,5 @@
 <h1 align="center">José Manoel Pereira</h1>
-
-<p align="center">
-  Backend Engineer focado em sistemas SaaS escaláveis, arquitetura backend e cloud
-</p>
-
+<h3 align="center">Backend Engineer | Node.js | TypeScript | AWS | SaaS | Distributed Systems</h3>
 <p align="center">
   <a href="https://github.com/CodJose-prog">
     <img src="https://img.shields.io/badge/GitHub-CodJose--prog-181717?style=for-the-badge&logo=github" alt="GitHub">
