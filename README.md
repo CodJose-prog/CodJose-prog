@@ -46,15 +46,9 @@ SaaS multi-tenant para gestão de reservas
 
 ---
 
-## 📈 Activity
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=CodJose-prog&theme=tokyonight&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=CodJose-prog&color=blueviolet" />
 </p>
-
----
-
-<img src="https://komarev.com/ghpvc/?username=CodJose-prog&color=blueviolet" />
 
 ---
 
