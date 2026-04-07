@@ -28,15 +28,6 @@ Experiência com Node.js, TypeScript, PostgreSQL e AWS, incluindo deploy em VPS 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CodJose-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodJose-prog&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Contato
 
 <p>
