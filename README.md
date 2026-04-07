@@ -27,7 +27,7 @@ Atuação em **decisões arquiteturais**, otimização de performance e evoluç�
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,laravel,redis,docker,aws,nginx,linux,githubactions&perline=6,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,laravel,redis,docker,aws,nginx,linux,githubactions&perline=6" />
 </p>
 
 ---
