@@ -27,7 +27,7 @@ Atuação em **decisões arquiteturais**, otimização de performance e evoluç�
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,laravel,redis,docker,aws,nginx,linux,githubactions&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,prisma,redis,docker,aws,nginx,linux,githubactions&perline=6" />
 </p>
 
 ---
@@ -44,8 +44,6 @@ SaaS multi-tenant para gestão de reservas
 
 🔗 https://arena-calendar.com  
 
-<img src="https://komarev.com/ghpvc/?username=CodJose-prog&color=blueviolet" />
-
 ---
 
 ## 📈 Activity
@@ -53,6 +51,10 @@ SaaS multi-tenant para gestão de reservas
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=CodJose-prog&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=CodJose-prog&color=blueviolet" />
 
 ---
 
