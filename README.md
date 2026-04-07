@@ -27,16 +27,7 @@ Atuação em **decisões arquiteturais**, otimização de performance e evoluç�
 ## 🧰 Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,laravel,redis,docker,aws,nginx,linux,githubactions&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CodJose-prog&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodJose-prog&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,postgres,laravel,redis,docker,aws,nginx,linux,githubactions&perline=6,prisma" />
 </p>
 
 ---
@@ -52,6 +43,8 @@ SaaS multi-tenant para gestão de reservas
 - Deploy em VPS com Coolify  
 
 🔗 https://arena-calendar.com  
+
+<img src="https://komarev.com/ghpvc/?username=CodJose-prog&color=blueviolet" />
 
 ---
 
