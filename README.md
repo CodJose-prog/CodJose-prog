@@ -32,20 +32,6 @@ Atuação em **decisões arquiteturais**, otimização de performance e evoluç�
 
 ---
 
-## 🔥 Featured Project
-
-### 🏆 ArenaCalendar  
-SaaS multi-tenant para gestão de reservas  
-
-- Isolamento de dados com PostgreSQL RLS  
-- Arquitetura escalável e orientada a serviços  
-- CI/CD com redução de deploy ~70%  
-- Deploy em VPS com Coolify  
-
-🔗 https://arena-calendar.com  
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CodJose-prog&color=blueviolet" />
 </p>
